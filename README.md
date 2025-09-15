@@ -63,6 +63,19 @@ The dataset contains information of individuals who purchased a treadmill in the
    - Segmented customers based on purchase behavior and demographics
    - Recommended marketing and sales strategies
 
+## Project Preview
+### Sample Visualizations
+**1. Distribution of Age by Product**
+![Age Distribution](images/age_distribution.png)
+
+**2. Treadmill Usage by Gender**
+![Usage by Gender](images/usage_gender.png)
+
+**3. Heatmap of Feature Correlations**
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+> Note: Replace `images/...` with your actual saved plot paths in the repository.
+
 ## Key Insights
 - KP281 mostly attracts younger, single customers with lower income.
 - KP781 is preferred by male customers with higher fitness levels and higher income.
