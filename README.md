@@ -65,6 +65,9 @@ The dataset contains information of individuals who purchased a treadmill in the
 
 ## Project Preview
 ### Sample Visualizations
+**Outlier Detection (Boxplots)**
+<img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/d23bea19-659f-44ac-a2ba-f9ad08fa8908" />
+
 **1. Distribution of Age by Product**
 ![Age Distribution](images/age_distribution.png)
 
