@@ -55,10 +55,10 @@ The dataset contains information of individuals who purchased a treadmill in the
 4. **Visual Analysis**
    - Univariate: histograms, countplots
    - Bivariate: boxplots, scatterplots
-   - Correlation analysis: heatmaps, pairplots
+   - Correlation analysis: heatmaps
 5. **Probability Analysis**
    - Marginal probabilities of product purchases
-   - Conditional probabilities by gender, marital status, and other features
+   - Conditional probabilities by gender, marital status, and other feature
 6. **Customer Profiling & Recommendations**
    - Segmented customers based on purchase behavior and demographics
    - Recommended marketing and sales strategies
