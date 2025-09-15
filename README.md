@@ -63,27 +63,29 @@ The dataset contains information of individuals who purchased a treadmill in the
    - Segmented customers based on purchase behavior and demographics
    - Recommended marketing and sales strategies
 
-## Project Preview
-### Sample Visualizations
-**Outlier Detection (Boxplots)**
-<img width="630" height="469" alt="image" src="https://github.com/user-attachments/assets/d23bea19-659f-44ac-a2ba-f9ad08fa8908" />
-
-**1. Distribution of Age by Product**
-![Age Distribution](images/age_distribution.png)
-
-**2. Treadmill Usage by Gender**
-![Usage by Gender](images/usage_gender.png)
-
-**3. Heatmap of Feature Correlations**
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-> Note: Replace `images/...` with your actual saved plot paths in the repository.
-
 ## Key Insights
-- KP281 mostly attracts younger, single customers with lower income.
-- KP781 is preferred by male customers with higher fitness levels and higher income.
-- Product usage frequency and miles run/week are strong indicators of product selection.
-- Conditional probabilities reveal strong correlation between marital status, income, and treadmill choice.
+# Customer Profiling by Treadmill Product
+
+## KP281 (Entry-Level)
+- **Age:** Younger customers (20–30 years)  
+- **Income:** Lower to mid income (~$45k)  
+- **Usage:** Casual usage (70–100 miles/week)  
+- **Gender & Marital Status:** Balanced gender, more partnered households  
+- **Target Customers:** Budget-conscious families & new fitness users  
+
+## KP481 (Mid-Level)
+- **Age:** Similar age as KP281 (~25–30 years)  
+- **Income:** Slightly higher (~$50k)  
+- **Usage:** Moderate mileage (80–100 miles/week)  
+- **Gender & Marital Status:** Balanced gender & marital status  
+- **Target Customers:** Working professionals and consistent fitness users  
+
+## KP781 (Premium)
+- **Age:** Slightly older users  
+- **Income:** Higher income (~$75k+)  
+- **Usage:** Very high mileage (150+ miles/week)  
+- **Gender & Marital Status:** Mostly male customers, mix of single and partnered  
+- **Target Customers:** Athletes, premium customers, gyms  
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
