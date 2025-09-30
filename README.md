@@ -90,8 +90,3 @@ The dataset contains information of individuals who purchased a treadmill in the
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Google Colab
-
-## How to Run
-1. Clone this repository:
-```bash
-git clone <your-repo-url>
